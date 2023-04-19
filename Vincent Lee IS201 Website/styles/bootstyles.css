@@ -1,0 +1,43 @@
+.unorderlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: grey;
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    color: #BF40BF;
+  }
+
+  body {
+    background-color: #779ecb;
+}
+
+.center {
+  text-align: center;
+  font-weight: normal;
+  text-decoration: underline;
+  color: #BF40BF;
+}
+
+footer {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+  font-weight: bold;
+}
