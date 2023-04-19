@@ -1,0 +1,27 @@
+body {
+    background-color: #FAF0E6;
+}
+h2 {
+    text-decoration: underline;
+    color: #8e7ae0;
+}
+
+.center {
+    text-align: center;
+    font-weight: normal;
+}
+
+.homep {
+    font-style: arial;
+    font-size: 21px;
+}
+
+
+.bold {
+    font-weight: bold;
+}
+
+.aboutmep {
+    font-style: arial;
+    font-size: 20px;
+}
